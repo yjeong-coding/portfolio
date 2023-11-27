@@ -1,0 +1,10 @@
+main {
+	width: 100%;
+	border-bottom: 1px solid #ddd;
+}
+main .inner {
+	width: 1180px;
+	height: 100px;
+	margin: 0px auto;
+	position: relative; /*자식 absolute 요소의 기준점 설정*/
+}
